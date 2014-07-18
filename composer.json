@@ -1,0 +1,19 @@
+{
+    "name": "ross/bolt-tagcloud",
+    "description": "An extension that provides capability of tag cloud generation and helpers to display these clouds",
+    "require": {
+        "bolt/bolt": ">1.6,<2.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksey Orlov",
+            "email": "i.trancer@gmail.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.7.*"
+        }
+    }
+}
